@@ -1,1 +1,6 @@
-package org.canary.core.base;public enum MicroServiceStatus {    HEALTH,    BAD,}
+package org.canary.core.base;
+
+public enum MicroServiceStatus {
+    HEALTH,
+    BAD,
+}
