@@ -1,4 +1,4 @@
-package org.canary.core.base;
+package org.canary.core.definition;
 
 public enum MicroServiceStatus {
     HEALTH,
